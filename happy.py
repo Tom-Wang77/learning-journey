@@ -1,0 +1,1 @@
+print("Hello AI! 我在学多模态 AI！")
