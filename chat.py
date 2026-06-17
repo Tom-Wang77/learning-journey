@@ -1,0 +1,8 @@
+name = input("What is your name? ")
+mood = input("How's going?")
+print ("=" * 30)
+print (f"Hi,{name}!")
+print (f"You are {mood} today!")
+print (f"Hope you can keep {mood} in the future!")
+print ("=" * 30)
+print ("$" * 30)
